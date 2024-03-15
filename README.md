@@ -9,4 +9,7 @@ If you are using Salome-Meca, this command file can be imported into the GUI, bu
 
 ![Bildschirmfoto vom 2024-03-15 08-35-26](https://github.com/emefff/Thermal-Evolution-In-Welding-In-Code-Aster/assets/89903493/c7dc7318-2e08-4367-9b6f-26514891ac78)
 
-The moment in time is just before the end of the simulation. The heat wave travelling before the heated weld zone already heats up the end of the two plates.
+The moment in time is just before the end of the simulation. The heat wave travelling before the heated weld zone already heats up the end of the two plates. In the attached video, you'll see the moving heat source more clearly.
+There is a special command in Code_Aster for a moving heat source also, but it is VERY difficult to use. Our approach has its limitations but for the moment it works fine. Especially results away from the heat source are absolutely fine.
+
+emefff@gmx.at
